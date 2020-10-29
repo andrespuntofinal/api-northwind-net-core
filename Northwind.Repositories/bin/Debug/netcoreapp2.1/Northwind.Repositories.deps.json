@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Northwind.Repositories/1.0.0": {
+        "dependencies": {
+          "Northwind.Models": "1.0.0"
+        },
+        "runtime": {
+          "Northwind.Repositories.dll": {}
+        }
+      },
+      "Northwind.Models/1.0.0": {
+        "runtime": {
+          "Northwind.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Northwind.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Northwind.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

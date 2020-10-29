@@ -1,0 +1,12 @@
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\bin\Release\netcoreapp2.1\Northwind.Repositories.deps.json
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\bin\Release\netcoreapp2.1\Northwind.Repositories.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\bin\Release\netcoreapp2.1\Northwind.Repositories.pdb
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\bin\Release\netcoreapp2.1\Northwind.Models.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\bin\Release\netcoreapp2.1\Northwind.Models.pdb
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\obj\Release\netcoreapp2.1\Northwind.Repositories.csprojAssemblyReference.cache
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\obj\Release\netcoreapp2.1\Northwind.Repositories.AssemblyInfoInputs.cache
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\obj\Release\netcoreapp2.1\Northwind.Repositories.AssemblyInfo.cs
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\obj\Release\netcoreapp2.1\Northwind.Repositories.csproj.CoreCompileInputs.cache
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\obj\Release\netcoreapp2.1\Northwind.Repositories.csproj.CopyComplete
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\obj\Release\netcoreapp2.1\Northwind.Repositories.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.Repositories\obj\Release\netcoreapp2.1\Northwind.Repositories.pdb

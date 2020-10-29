@@ -1,0 +1,16 @@
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.DataAccess.deps.json
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.DataAccess.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.DataAccess.pdb
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.Models.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.Repositories.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.UnitOfWork.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.Repositories.pdb
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.UnitOfWork.pdb
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\bin\Release\netcoreapp2.1\Northwind.Models.pdb
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\obj\Release\netcoreapp2.1\Northwind.DataAccess.csprojAssemblyReference.cache
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\obj\Release\netcoreapp2.1\Northwind.DataAccess.AssemblyInfoInputs.cache
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\obj\Release\netcoreapp2.1\Northwind.DataAccess.AssemblyInfo.cs
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\obj\Release\netcoreapp2.1\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\obj\Release\netcoreapp2.1\Northwind.DataAccess.csproj.CopyComplete
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\obj\Release\netcoreapp2.1\Northwind.DataAccess.dll
+D:\Documentos\CursosUdemy\Angular-Net Core\NorthwindSolution\Northwind.DataAccess\obj\Release\netcoreapp2.1\Northwind.DataAccess.pdb

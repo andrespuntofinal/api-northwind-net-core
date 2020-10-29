@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+        "projectName": "Northwind.DataAccess",
+        "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+                "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj"
+              },
+              "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj": {
+                "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj",
+        "projectName": "Northwind.Models",
+        "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj",
+        "projectName": "Northwind.Repositories",
+        "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj": {
+                "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj",
+        "projectName": "Northwind.UnitOfWork",
+        "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+                "projectPath": "D:\\Documentos\\CursosUdemy\\Angular-Net Core\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
